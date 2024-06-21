@@ -1,4 +1,3 @@
-// archivo: ejercicio6.dart
 import 'package:flutter/material.dart';
 import 'dart:math';
 
