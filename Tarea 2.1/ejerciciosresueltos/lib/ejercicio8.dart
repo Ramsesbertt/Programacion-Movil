@@ -1,4 +1,3 @@
-// archivo: ejercicio8.dart
 import 'package:flutter/material.dart';
 
 class Ejercicio8 extends StatefulWidget {
